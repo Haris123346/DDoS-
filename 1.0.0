@@ -1,0 +1,5 @@
+Collecting poetry-core
+  Downloading poetry_core-1.1.0-py3-none-any.whl (526 kB)
+     ------------------------------------ 526.2/526.2 KB 868.6 kB/s eta 0:00:00
+Installing collected packages: poetry-core
+Successfully installed poetry-core-1.1.0
