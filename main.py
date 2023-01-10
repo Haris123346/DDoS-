@@ -14,7 +14,7 @@ def sendRequest():
     client = httpx.Client()
     while True:
         try:
-            client.get("https://bit.ly/enquete64")
+            client.get("enter url")
             counter += 1
             print(f"{sent}{g}{b} Request: {counter} sent...{r}")
         except:
